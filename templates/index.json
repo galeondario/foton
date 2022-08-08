@@ -153,6 +153,7 @@
         "1659937721d1869012-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/m.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

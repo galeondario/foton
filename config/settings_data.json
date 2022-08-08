@@ -103,7 +103,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "OUR PHONE NUMBER: +77 (123) 456 789",
               "text_alignment": "center",
               "color_scheme": "background-1",
               "link": ""
